@@ -1,0 +1,8 @@
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\bin\Debug\XeroApplication.dll
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\bin\Debug\XeroApplication.pdb
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\bin\Debug\WebDriver.dll
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\bin\Debug\WebDriver.xml
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\obj\Debug\XeroApplication.csprojResolveAssemblyReference.cache
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\obj\Debug\XeroApplication.dll
+c:\users\sally\documents\visual studio 2015\Projects\XeroApplication\XeroApplication\obj\Debug\XeroApplication.pdb
